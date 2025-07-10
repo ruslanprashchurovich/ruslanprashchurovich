@@ -56,10 +56,11 @@
 ## 🚀 Проекты
 
 | Проект                                           | Описание                                                       | Стек                                    |
-| ------------------------------------------------ | -------------------------------------------------------------- | --------------------------------------- |
-| [🔍 Рекомендательная система](ml-portfolio/projects/Project1) | Построение системы рекомендаций и A/B-тестирование результатов | Python, PyTorch, FastAPI, CatBoost, SQL |
-| [📊 Product Market Fit](ml-portfolio/projects/Project2)       | Анализ Retention и пользовательского поведения                 | Pandas, ClickHouse, SQL, Matplotlib     |
-| [🍻 Default Prediction](ml-portfolio/projects/Project3)       | Прогноз дефолта заказов на вымышленном датасете                | Python, XGBoost, Seaborn, Matplotlib    |
+|--------------------------------------------------|----------------------------------------------------------------|-----------------------------------------|
+| [🔍 Рекомендательная система](https://github.com/ruslanprashchurovich/ml-portfolio/tree/master/projects/Project1) | Построение системы рекомендаций и A/B-тестирование результатов | Python, PyTorch, FastAPI, CatBoost, SQL |
+| [📊 Product Market Fit](https://github.com/ruslanprashchurovich/ml-portfolio/tree/master/projects/Project2)       | Анализ Retention и пользовательского поведения                 | Pandas, ClickHouse, SQL, Matplotlib     |
+| [🍻 Default Prediction](https://github.com/ruslanprashchurovich/ml-portfolio/tree/master/projects/Project3)       | Прогноз дефолта заказов на вымышленном датасете                | Python, XGBoost, Seaborn, Matplotlib    |
+
 
 ---
 
