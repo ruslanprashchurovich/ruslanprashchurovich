@@ -58,9 +58,8 @@
 | Проект                                           | Описание                                                       | Стек                                    |
 |--------------------------------------------------|----------------------------------------------------------------|-----------------------------------------|
 | [🔍 Рекомендательная система](https://github.com/ruslanprashchurovich/NextBestChoice) | Построение системы рекомендаций и A/B-тестирование результатов | Python, PyTorch, FastAPI, CatBoost, SQL |
-| [📊 Product Market Fit](https://github.com/ruslanprashchurovich/UserLoyaltyLab)      | Анализ Retention и пользовательского поведения                 | Pandas, ClickHouse, SQL, Matplotlib     |
 | [🍻 Default Prediction](https://github.com/ruslanprashchurovich/DefaultDetector)       | Прогноз дефолта заказов на вымышленном датасете                | Python, XGBoost, Seaborn, Matplotlib    |
-
+| [🤖 DWH ASSISTANT](https://github.com/ruslanprashchurovich/dwh-assistant)             | Генерация SQL-запросов из естественного языка с помощью YandexGPT | Python, FastAPI, YandexGPT, ClickHouse  |
 
 ---
 
