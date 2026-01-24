@@ -1,24 +1,17 @@
-# 👋 Привет, я Руслан!
+# Привет, я Руслан!
 
 ## Обо мне
 
-Я — финансовый аналитик с опытом в Nestlé, где совмещал финансовую и продуктовую аналитику: автоматизировал отчётность, строил витрины, оценивал поведение клиентов и эффективность промо-инициатив.
-
 Больше всего меня увлекает работа с данными, когда за цифрами видны реальные бизнес-решения. Мне важны прозрачность, причинно-следственные связи и возможность влиять на продуктовые метрики, а не просто фиксировать факты. Верю, что хорошая аналитика — это всегда о балансе между глубиной, скоростью и пользой для команды.
-
----
 
 ## Контакты
 
 [📧 Email](mailto:ruslanprashchurovich@gmail.com) | [🐱 GitHub](https://github.com/ruslanprashchurovich) | [💬 Telegram](https://t.me/rarrisimo)
 
----
 
 ## Технический стек
 
-### Языки
-
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white&style=flat) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=flat)
+- Языки: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white&style=flat) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=flat)
 
 ### Анализ и визуализация
 
@@ -51,8 +44,6 @@
 | karpov.courses | Симулятор DS      |Python, YandexGPT, Yandex Cloud |  [🔗 Сертификат](https://lab.karpov.courses/live_certificate/2c727e5d-423f-4cae-8387-fe46641684de/)                                                                                       |
 | karpov.courses | Симулятор SQL              | SQL, продуктовые метрики        | [🔗 Сертификат](https://lab.karpov.courses/certificate/096adb63-0243-4745-8f56-ba48d7ac19fb/) |
 
----
-
 ## Проекты
 
 | Проект                                           | Описание                                                       | Стек                                    |
@@ -60,8 +51,6 @@
 | [🔍 Рекомендательная система](https://github.com/ruslanprashchurovich/NextBestChoice) | Построение системы рекомендаций и A/B-тестирование результатов | Python, PyTorch, FastAPI, CatBoost, SQL |
 | [🍻 Default Prediction](https://github.com/ruslanprashchurovich/DefaultDetector)       | Прогноз дефолта заказов на вымышленном датасете                | Python, XGBoost, Seaborn, Matplotlib    |
 | [🤖 DWH ASSISTANT](https://github.com/ruslanprashchurovich/dwh-assistant)             | Генерация SQL-запросов из естественного языка с помощью YandexGPT | Python, FastAPI, YandexGPT, ClickHouse  |
-
----
 
 ## Планы развития
 
