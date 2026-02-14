@@ -19,11 +19,11 @@
    - Генерация SQL-запросов из естественного языка с помощью YandexGPT
    - Упрощение работы аналитиков и разработчиков через интеллектуальный интерфейс
 
-2. **[Rec Sys](https://github.com/ruslanprashchurovich/rec-sys)**
+2. **[REC SYS](https://github.com/ruslanprashchurovich/rec-sys)**
    - Построение и оптимизация системы рекомендаций
    - A/B-тестирование и оценка эффективности моделей
 
-3. **[RAG Courses Advisor](https://github.com/ruslanprashchurovich/rag-courses-advisor)**
+3. **[RAG COURSES ADVISOR](https://github.com/ruslanprashchurovich/rag-courses-advisor)**
    - Система на базе Retrieval-Augmented Generation для рекомендации курсов
    - Комбинирование поиска и генерации для точных рекомендаций
 
