@@ -16,7 +16,8 @@
 ## Ключевые проекты
 
 1. **[DWH ASSISTANT](https://github.com/ruslanprashchurovich/dwh-assistant)**
-   - Генерация SQL-запросов из естественного языка с помощью YandexGPT
+   - Генерация SQL-запросов из естественного языка с помощью AI
+   - Поддержка множественных моделей: YandexGPT, ChatGPT, Claude (с возможностью переключения)
    - Упрощение работы аналитиков и разработчиков через интеллектуальный интерфейс
 
 2. **[REC SYS](https://github.com/ruslanprashchurovich/rec-sys)**
